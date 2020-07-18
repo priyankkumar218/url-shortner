@@ -1,1 +1,1 @@
-web: gunicorn urlshort:app
+web: gunicorn urlshort.urlshort:app
